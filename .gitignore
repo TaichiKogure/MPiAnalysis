@@ -6,3 +6,17 @@
 *.iml
 out
 gen
+/mentorpi_Docker_analysis/ubuntu_in_MTP/
+/MentorPiCore_Ext/
+/mentorpi_Docker_analysis/ubuntu_in_MTP/
+/mentorpi_Docker_analysis/ubuntu_in_MTP/.cache/
+/mentorpi_Docker_analysis/ubuntu_in_MTP/.codeium/
+/mentorpi_Docker_analysis/ubuntu_in_MTP/.config/
+/mentorpi_Docker_analysis/ubuntu_in_MTP/.dbus/
+/mentorpi_Docker_analysis/ubuntu_in_MTP/.local/
+/mentorpi_Docker_analysis/ubuntu_in_MTP/.npm/
+/mentorpi_Docker_analysis/ubuntu_in_MTP/.nvm/
+/mentorpi_Docker_analysis/ubuntu_in_MTP/.ros/
+/mentorpi_Docker_analysis/ubuntu_in_MTP/.rtabmap/
+/mentorpi_Docker_analysis/ubuntu_in_MTP/.rviz2/
+/mentorpi_Docker_analysis/ubuntu_in_MTP/.zsh/
